@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <div align="center">
+  <!-- Insert your icons or badges for skills here -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-dCK4Md5p0+jY6FYPlzvzKjeV9uENBrpIThCZFYXBWthl43F1eaMzT7I3QFf+1lO5QnNlfhEmCOZ2M2y4F2A8xA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+  /* Add your custom CSS styles here */
+  .icon {
+    font-size: 40px;
+    margin: 10px;
+  }
+</style>
+</head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p>Android Developer</p>
@@ -15,8 +26,46 @@ I am an Android developer and a graduate of the Faculty of Computers and Informa
 </p>
 
 <h2 align="center">Languages and Tools</h2>
-<div align="center">
-  <!-- Insert your icons or badges for skills here -->
+
+
+
+<!-- Example icons for programming languages and tools -->
+<div class="icon">
+  <i class="fab fa-kotlin"></i> <!-- Kotlin -->
+</div>
+<div class="icon">
+  <i class="fab fa-java"></i> <!-- Java -->
+</div>
+<div class="icon">
+  <i class="fab fa-android"></i> <!-- Android -->
+</div>
+<div class="icon">
+  <i class="fab fa-php"></i> <!-- PHP -->
+</div>
+<div class="icon">
+  <i class="fab fa-python"></i> <!-- Python -->
+</div>
+<div class="icon">
+  <i class="fab fa-html5"></i> <!-- HTML -->
+</div>
+<div class="icon">
+  <i class="fab fa-css3-alt"></i> <!-- CSS -->
+</div>
+<div class="icon">
+  <i class="fab fa-js"></i> <!-- JavaScript -->
+</div>
+<div class="icon">
+  <i class="fas fa-database"></i> <!-- Database -->
+</div>
+<div class="icon">
+  <i class="fas fa-database"></i> <!-- MySQL -->
+</div>
+<div class="icon">
+  <i class="fab fa-react"></i> <!-- Firebase -->
+</div>
+<div class="icon">
+  <i class="fas fa-paper-plane"></i> <!-- Postman -->
+</div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=kotlin&logoColor=black">
 </div>
 

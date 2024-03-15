@@ -8,10 +8,8 @@
 </p>
 
 
-<!-- ## Mohamed Tamer - @mohamedtamer0 -->
 
 
-![1544118575312](https://user-images.githubusercontent.com/51374446/149413490-fb3a6507-eb23-4e08-a756-842c47727978.jpg)
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
@@ -24,17 +22,11 @@
 I am an Android developer and I am a graduate of the Faculty of Computers and Information Tanta in 2023. I love to share my experience with others, and I also learn something new every day,I am a self-motivated person who wants to go above and beyond in any Android developer project, and learn valuable skills on my own time. For example, I taught myself five programming languages ​​in college and even tried to do a graduation project in another field until I achieved my goal, simply out of my passion to learn how to program. I need to learn more and increase my competence and experience as an Android developer
 </p>
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> My Courses
-<div align="center">
- <a href="https://www.udemy.com/user/mohamed-tamer-15/"><img src="https://img.shields.io/badge/Udemy-A100FF?style=for-the-badge&logo=Udemy&logoColor=white"></a>
-  <a href="https://www.youtube.com/user/tamer3044/"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
- </div>
- 
  
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,py,swift,ts,androidstudio,angular,atom,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,maven,mongodb,mysql,netlify,nodejs,pug,reactivex,sass,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd,spring,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,kotlin,c,cs,cpp,go,java,php,swift,androidstudio,bootstrap,eclipse,firebase,git,github,gradle,idea,ktor,linux,mysql,nodejs,pug,reactivex,spring,sqlite,stackoverflow,visualstudio,vscode,vue,xd,)](https://skillicons.dev)
 <br/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 

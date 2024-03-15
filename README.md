@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mohamed Samir - Android Developer</title>
+<p>Android Developer</p>
 </head>
 <body>
 <h1 align="center">Hi 👋, I'm Mohamed Samir</h1>
@@ -17,7 +17,7 @@ I am an Android developer and a graduate of the Faculty of Computers and Informa
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
   <!-- Insert your icons or badges for skills here -->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=kotlin&logoColor=black">
 </div>
 
 <h3 align="left">Connect with me:</h3>

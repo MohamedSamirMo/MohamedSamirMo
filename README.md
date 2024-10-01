@@ -23,7 +23,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Skills and Tools:</h3>
+
+<h4>Programming Languages & Frameworks:</h4>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
@@ -37,16 +39,42 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <a href="https://developer.android.com/jetpack" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Jetpack" width="40" height="40"/>
   </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <a href="https://developer.android.com/kotlin/coroutines" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin Coroutines" width="40" height="40"/>
   </a>
 </p>
+
+<h4>Libraries & Tools:</h4>
+<p align="left">
+  <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/squareup/squareup-icon.svg" alt="Retrofit" width="40" height="40"/>
+  </a>
+  <a href="https://dagger.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Dagger" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/topic/libraries/architecture/room" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Room Database" width="40" height="40"/>
+  </a>
+  <a href="https://square.github.io/leakcanary/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/squareup/squareup-icon.svg" alt="LeakCanary" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+</p>
+
+<h4>Architectures & Practices:</h4>
+<ul>
+  <li>MVVM, MVC, MVP</li>
+  <li>SOLID Principles</li>
+  <li>Dependency Injection</li>
+</ul>
 
 <h3 align="left">Support Me:</h3>
 <p>
